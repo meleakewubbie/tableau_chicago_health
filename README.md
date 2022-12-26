@@ -1,6 +1,7 @@
 # Mapping Public Health with Tableau
 
 1. I retrieved public health and geospatial data from the Chicago Data Portal:
+
 https://data.cityofchicago.org/Facilities-Geographic-Boundaries/Boundaries-Community-Areas-current-/cauq-8yn6
 https://data.cityofchicago.org/Health-Human-Services/Public-Health-Statistics-Selected-public-health-in/iqnk-2tcu
 
