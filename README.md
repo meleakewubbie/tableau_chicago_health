@@ -8,5 +8,7 @@ https://data.cityofchicago.org/Health-Human-Services/Public-Health-Statistics-Se
 
 3. ![image](https://user-images.githubusercontent.com/77419851/209523780-4bf72b5d-a779-4176-ada2-a8489a591476.png)
 
+4. I noticed that the north-east part of Chicago has low rates of gonorrhea in males and un-employment. The people who live there could have higher accessibility to health care than other parts of Chicago. In addition, they could have more access to employment opportunities. Lincoln park, in north-east Chicago, has a gonorrhea in male’s rate of 93.1 with 4.5% un-employment. Fuller park, in south-east Chicago, has a gonorrhea in male’s rate of 1556.4 with 40% un-employment. Communities within the south-east part of Chicago have higher rates of gonorrhea in males and un-employment compared to the north-east.  
+
 
 
